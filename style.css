@@ -1,0 +1,63 @@
+h1 {
+  text-align:center;
+  color: #EEE1B3;
+  font-family: Brushstroke, fantasy;
+  font-size: 50px
+}
+
+h2{
+  color: rgb(253, 74, 74);
+  font-family: Brushstroke, fantasy;
+  font-size: 30px;
+}
+
+p {
+  color: #EEE1B3;
+  font-family: monospace, lucinda console;
+  font-size: 20px;
+}
+
+body {
+  background-color: black;
+  text-align: left;
+}
+    
+* {
+  margin: 30px;
+  }
+
+
+  header{
+    text-align: center;
+  }
+
+  body img {
+    max-width:17cm ;
+    max-height:7cm;
+    text-align: center;
+    margin: 0px;
+  }
+
+  nav {
+    background-color: rgb(70, 6, 107) ;
+    font-size: 20px;
+    font-family: Brushstroke, fantasy;
+  }
+  
+  a {
+    color: #EEE1B3;
+    font-size: 20px;
+    font-family: monospace, lucinda console;
+  }
+
+span {
+  color: #EEE1B3;
+  font-family: monospace, lucinda console;
+  font-size: 20px;
+}
+
+ul {
+  color: #EEE1B3;
+  font-size: 20px;
+  font-family: monospace, lucinda console;
+}
